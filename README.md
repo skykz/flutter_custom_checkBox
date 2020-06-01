@@ -1,4 +1,4 @@
-# bsg_client
+# Flutter test task 
 
 A new Flutter project.
 
