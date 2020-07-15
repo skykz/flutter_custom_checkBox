@@ -1,6 +1,6 @@
 # Flutter test task 
 
-A new Flutter project.
+Create custom checkBox with custom painter and animations
 
 ## Getting Started
 
